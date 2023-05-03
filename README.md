@@ -1,2 +1,1 @@
-# python
-this is my first repository 
+# python(my first repository)
